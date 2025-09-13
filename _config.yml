@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://akiitr.github.io/zhi_research/
 
 aux_links:
-  Template Repository: https://akiitr.github.io/zhi_research/
+  Repository: hhttps://github.com/akiitr/zhi_research
 
 # Default for all the pages
 defaults:
@@ -50,7 +50,7 @@ last_edit_time_format: "%b %e, %Y at %I:%M %p"
 # GitHub edit link
 gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://akiitr.github.io/zhi_research/"
+gh_edit_repository: "https://github.com/akiitr/zhi_research"
 gh_edit_branch: "main"
 gh_edit_view_mode: "tree"
 
